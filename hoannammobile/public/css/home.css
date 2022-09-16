@@ -1,0 +1,59 @@
+
+    .nav-sections .nav-sections-items .navbar-nav .level0{position: relative !important;}
+    .fa-icon-tbyt{ background:url(https://didongviet.vn/assets/images/icon/icon-y-te.png) no-repeat center center;
+       
+        width: 16px;
+        height: 16px;
+    }
+    .promotion-banner img,.group-slide  img{border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5}
+ 
+    .cms-home .content-wrapper .homepage-content-top .box-style-1 .homepage-content-wrapper,
+    .cms-home .content-wrapper .homepage-content-top .box-style-1 .homepage-content-wrapper .flash-sale-title-wrapper,
+    .cms-home .content-wrapper .homepage-content-top .box-style-1 .homepage-content-wrapper .products
+    {background: #1b5c89;}
+    .cms-home .content-wrapper .homepage-content-top .box-style-1 .homepage-content-wrapper .flash-sale-title-wrapper{}
+    .cms-home .content-wrapper .homepage-content-top .box-style-1 .homepage-content-wrapper .flash-sale-title-wrapper a{color:#fff;}
+    .cms-home .content-wrapper .homepage-content-top .box-style-1 .homepage-content-wrapper .flash-sale-title-wrapper a .flash-sale-title{text-decoration:underline}
+    .cms-home .content-wrapper .homepage-content-top  .box-style-1 .homepage-content-wrapper .flash-sale-title-wrapper .fa-flash{display:none}
+    #defaultmenu .nav > .level0:nth-child(3) .groupmenu-drop{width:500px !important;left:-150px !important}
+    #defaultmenu .nav > .level0:nth-child(3) .groupmenu-drop ol li,
+    #defaultmenu .nav > .level0:nth-child(4) .groupmenu-drop ol li,
+    #defaultmenu .nav > .level0:nth-child(5) .groupmenu-drop ol li {width:49%;display: inline-block;}
+    .category-tbyt .list-child-scroll{display:none;} 
+    #preview .btn-choose{
+        height:auto; padding:10px 0
+    }
+        
+      .nav-sections .nav-sections-items .navbar-nav .category-item:nth-child(4) .groupmenu-drop{width:410px !important}
+      .nav-sections .nav-sections-items .navbar-nav .category-item:nth-child(5) .groupmenu-drop{width:450px !important}
+     
+      .homepage-influencer-slider .influencer-slider-content .influencer-background, .kol-influencer-slider .influencer-slider-content .influencer-background{
+          background-image: url(https://didongviet.vn/assets/images/cam-on-nghe-si-ddv-t12.png)
+      }
+
+      .deal-deal-index #maincontent .columns .row{display:block}
+      @media screen and (min-width:768px){
+          .homepage-menu-cat .menu-cat-content a{width:9%}
+      }
+ 
+
+
+      .custom-menu-cat-wrapper{margin:15px 0;}
+      .custom-menu-cat-wrapper .menu-cat-content{
+
+      }
+      .custom-menu-cat-wrapper .menu-cat-content p{
+          display:flex;-webkit-display:flex;flex-flow:row nowrap;flex:1 100%;
+        }
+        .custom-menu-cat-wrapper .menu-cat-content p a{width:9%;text-align:center;margin:0 0.5%;font-size:13px}
+        .custom-menu-cat-wrapper .menu-cat-content p a img{display: block;
+width: 100%;
+height: auto;
+margin: 0 auto 8px;
+transition: 0.3s all;
+-webkit-transition: 0.3s all;
+border: 1px solid #bdbdbd;
+border-radius: 8px;}
+
+
+
